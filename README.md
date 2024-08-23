@@ -1,4 +1,6 @@
 ## Hi there 👋
-<div>
-  <img src="https://img.shields.io/badge/discord-5865F2?style=flat-square&logo=discord&logoColor=white"/>
+
+<h3 align="center">✨Tech Stack✨</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/Spring-36DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 </div>
