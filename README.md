@@ -1,15 +1,30 @@
-<h1 align="center">Hi 👋, I'm HyeonHoi</h1>
+![header](https://capsule-render.vercel.app/api?type=waving&color=A3DCBE&height=300&section=header&text=mo_o.noe%20&fontSize=90)
 
-- 📫 How to reach me **hyeonhoi11@naver.com**
+<h1 align="center"> 👩🏻‍💻 About Me </h1> <br>
 
-<p align="left">
-</p>
+- I'm studying in the department of Computer Engineering at Inha Univ.
+- I'm interested in BackEnd Developer 🖥️
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<br><hr>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hyeonhoi11&show_icons=true&locale=en&layout=compact" alt="hyeonhoi11" /></p>
+<h2 align="center">Contact Me!📥</h2><br>
+<div align="center"><img src="https://img.shields.io/badge/hyeonhoi11@naver.com-white?style=for-the-badge&logo=Naver&logoColor=#03C75A"/></a><br><br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hyeonhoi11&show_icons=true&locale=en" alt="hyeonhoi11" /></p>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mo_o_noe)](https://solved.ac/mo_o_noe/)
+<h2 align="center">📚Tech Stack📚</h2> <br>
+<div align="center"> <img src="https://img.shields.io/badge/Java-red?style=flat&logo=Java&logoColor=white"/></a> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white"/></a> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MYSQL&logoColor=white"/></a> <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/></a><br><br><br>
+
+
+<h2 align="center">🛠️ Stack Tools🛠️ </h2> <br>
+<div align="center"> <img src="https://img.shields.io/badge/VScode-007ACC?style=flat&logo=VisualStudioCode&logoColor=white"/></a>  <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=IntelliJ IDEA&logoColor=white"/></a></div>
+<br><br><br>
+
+### 💪 Language & Skill
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonhoi11&layout=compact)
+
+
+### 🔥 My Status
+---
+![hyeonhoi11's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeonhoi11&show_icons=true&theme=radical) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mo_o_noe)](https://solved.ac/mo_o_noe/)
