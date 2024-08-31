@@ -16,7 +16,7 @@
 
 
 <h2 align="center">🛠️ Stack Tools🛠️ </h2> <br>
-<div align="center"> <img src="https://img.shields.io/badge/VScode-007ACC?style=flat&logo=VisualStudioCode&logoColor=white"/></a>  <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=IntelliJ IDEA&logoColor=white"/></a></div>
+<div align="center"> <img src="https://img.shields.io/badge/VScode-007ACC?style=flat&logo=VisualStudioCode&logoColor=white"/></a>  <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=IntelliJ IDEA&logoColor=white"/></a>  <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=FFFFFF"/></a>  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=FFFFFF"/></a></div>
 <br><br><br>
 
 ### 💪 Language & Skill
